@@ -3,7 +3,7 @@ Real Time Programmming Question
 
 ####Problem Statement
 
-#####Q. Your program should read the contents from file "data/para.txt", sort them as in dictionary and print those alphabetically sorted words. ( allowable characters are  a-z A-Z 0-9 ' - )
+#####Q. Your program should read the contents from file "data/para.txt", sort the words as in dictionary and print those alphabetically sorted words. ( allowable characters are  a-z A-Z 0-9 ' - )
 </p></p>
 for eg: Assume the file have the following sentence
 
