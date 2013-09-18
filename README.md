@@ -13,9 +13,9 @@ the program should return </br>
 
 <code>
 brown
-dog
+dog,
 fox
-hyphen-check
+hyphen-check.
 jumps
 lazy
 over
